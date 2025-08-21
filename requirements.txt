@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
